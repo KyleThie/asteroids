@@ -302,7 +302,7 @@ function animate() {
   else if (keys.ArrowLeft.pressed) player.rotation -= ROTATIONAL_SPEED;
 }
 
-// UNCOMMENT TO GET IT TO WORKJ;SDAKF JAS;DOIFJ AS;DLFJAS D
+// UNCOMMENT TO GET IT TO WORK
 animate();
 
 window.addEventListener("keydown", (event) => {
